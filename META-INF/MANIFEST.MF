@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Implementation-Title: social
+Implementation-Version: 1
+Built-By: joseph
+Implementation-Vendor-Id: com.joseph
+Spring-Boot-Version: 2.0.4.RELEASE
+Main-Class: org.springframework.boot.loader.WarLauncher
+Start-Class: com.joseph.social.SocialApplication
+Spring-Boot-Classes: WEB-INF/classes/
+Spring-Boot-Lib: WEB-INF/lib/
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/social
+
